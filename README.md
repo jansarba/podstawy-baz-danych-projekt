@@ -2,7 +2,7 @@
 ---
 # Project - Course Provider
 
-**Authors:** Dariusz Rozmus, Jan Sarba
+**Authors:** Dariusz Rozmus, Jan Sarba 
 
 ---
 
